@@ -1,0 +1,712 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+/* .container{
+    width:100%;
+} */
+.blue{
+    background-color:skyblue;
+    width: 100%;
+    height: 650px;
+
+}
+.crosstop{
+    position: absolute;
+    width: 180px;
+    height: 60px;
+    
+}
+.photohub{
+    position: relative;
+   margin: 5px;
+   width: 100px;
+}
+.menu{
+    position: relative;
+    padding-top: 1px;
+    padding-left: 250px;
+    
+}
+.topright{
+    text-align: right;
+    margin-top: -35px;
+    
+}
+li{
+    display: inline;
+    margin: 4px;
+}
+a{
+    text-decoration: none;
+}
+#project{
+    
+    color: black;
+    padding: 3px;
+    background-color:white;
+    border-radius: 5px;
+
+}
+#sign{
+    color: white;
+}
+#search{
+    height: 20px;
+}
+.menu{
+    
+    height: 20px;
+
+}
+.parent{
+    margin-top: 60px;
+}
+.para{
+    width: 250px;
+    margin-left: 75px;
+    color: white;
+}
+h2{
+    color: white;
+    
+}
+#a{
+    border: 1px solid white;
+    border-radius: 30px;
+    text-align: center;
+    color: black;
+    padding: 4px;
+}
+
+.firstscreen{
+    position: absolute;
+    margin-left: 35px;
+    width: 250px;
+    height: 250px;
+}
+.white{
+    background-color: white;
+    width: 100%;
+    height: 500px;
+}
+.white img{
+    margin-left: 35px;
+    width: 300px;
+    height: 300px;
+}
+
+.ab{
+    color: black;
+    margin-left: 80px;
+    font-weight: lighter;
+    font-size:30px;
+}
+.soft{
+    color: skyblue;
+    margin-top: -36px;
+    margin-left:170px;
+    font-weight: lighter;
+    font-size: 30px;
+}
+.p2{
+    
+    font-weight: lighter;
+    font-size: larger;
+}
+.div a{
+    border: 4px solid skyblue;
+    border-radius: 30px;
+    text-align: center;
+    color: black;
+    padding: 6px;
+    margin-left: 250px;
+}
+.bottom{
+    color: black;
+    margin-bottom: 0px;
+    margin-left: 80px;
+    font-weight: lighter;
+    font-size:30px;
+    
+
+}
+.bottom2{
+    color: skyblue;
+    margin-top: -30px;
+    margin-left:150px;
+    font-weight: lighter;
+    font-size: 30px;
+
+}
+
+.backimg{
+    position:relative;
+    margin-top: 150px;
+    width: 100%;
+    height: 500px;
+
+}
+
+.easy{
+    position: absolute;
+    color: white;
+    /* border: 0px none; */
+    background-color: black;
+    padding: 10px;
+    font-size: larger;
+    font-weight: lighter;
+    margin-top: -450px;
+    margin-left: 40px;
+
+}
+.flexi{
+    display: list-item;
+    text-decoration: none;
+    position: absolute;
+    font-size: larger;
+    font-weight: lighter;
+    color: black;
+    margin-top: -440px;
+    margin-left: 220px;
+
+}
+.mode{
+    display: list-item;
+    position: absolute;
+    font-size: larger;
+    font-weight: lighter;
+    color: black;
+    margin-top: -400px;
+    margin-left: 70px;
+
+}
+
+
+.ratio{
+    display: list-item;
+    position: absolute;
+    font-size: larger;
+    font-weight: lighter;
+    color: black;
+    margin-top: -400px;
+    margin-left: 220px;
+
+}
+.admin{
+    position:absolute; 
+    width: 30px;
+    height: 30px;
+    margin-top: -100px;
+    margin-left: 100px;
+    
+  
+}
+
+textarea{
+    position: absolute;
+    font-size: larger;
+    font-weight: lighter;
+    width: 300px;
+    height: 300px;
+    margin-top: -410px;
+    margin-left: 40px;
+}
+.offwhite{
+    background-color: white;
+    width: 100%;
+    height: 590px;
+}
+.how{
+    margin-top: -50px;
+    color: black;
+    font-size: 50px;
+    font-weight: lighter;
+}
+.work{
+    color: skyblue;
+    font-size: 50px;
+    font-weight: lighter;
+    margin-top: -56px;
+    margin-left: 180px;
+}
+.p3{
+    font-weight: lighter;
+    font-size: 15px;
+    margin-left: 10px;
+    
+}
+#m{
+    margin-top: 10px;
+    border: 4px solid skyblue;
+    font-size: 15px;
+    border-radius: 30px;
+    text-align: center;
+    color: black;
+    height: 5px;
+    padding: 10px;
+
+}
+.man{
+    width: 250px;
+    height: 250px;
+    margin-left: 60px;
+    margin-top: 15px;
+}
+
+.bluerequest{
+    background-color: rgb(12, 122, 165);
+    width: 100%;
+    height: 950px;
+     font-weight: lighter;
+}
+.black{
+    color: black;
+    font-weight: lighter;
+    font-size: 40px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.call{
+    color:white;
+    font-size: 40px;
+    font-weight: lighter;
+    margin-left: 160px;
+    margin-top: -45px;
+}
+.name{
+    width: 300px;
+    height: 40px;
+    border: 1px solid white;
+    border-radius: 20px;
+    background-color: white;
+    margin-top: 30px;
+    margin-left: 30px;
+
+}
+.email{
+    width: 300px;
+    height: 40px;
+    border: 1px solid white;
+    border-radius: 20px;
+    background-color: white;
+    margin-top: 40px;
+    margin-left: 30px;
+
+}
+.phone{
+    width: 300px;
+    height: 40px;
+    border: 1px solid white;
+    border-radius: 20px;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.msg{
+    width: 300px;
+    height: 100px;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: white;
+    margin-top: 60px;
+    margin-left: 30px;
+
+}
+.submit{
+    width: 200px;
+    height: 30px;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: white;
+    
+    margin-left: 140px;
+    padding: 20px;
+    
+
+}
+
+.map{
+    
+    margin-top: 70px;
+    margin-left: 40px;
+}
+.blackish{
+    background-color: rgb(9, 1, 1);
+    width: 100%;
+    height: 500px;
+}
+.add{
+    text-align: center;
+   
+}
+.p4{
+    color:gray;
+    margin-left: 85px;
+    font-weight: lighter;
+}
+.links{
+    font-weight: lighter;
+    margin-top: -20px;
+    margin-left: 50px;
+    color: white;
+    font-weight: lighter;
+
+}
+.linksul li{
+    display: list-item;
+   
+}
+.homer{
+    color: white;
+}
+.follow{
+    font-weight: lighter;
+    margin-left: 180px;
+    margin-top: -120px;
+    font-weight: lighter;
+}
+.followul li{
+    display: list-item;
+    color: rgb(190, 157, 157);
+    margin-left: 30px;
+    
+   
+}
+.contact{
+    margin-top: 40px;
+    font-weight: lighter;
+}
+.news{
+    text-align: center;
+    font-weight: lighter;
+}
+.mailid{
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 70px;
+}
+.subscribe{
+    width: 70px;
+    height:40px ;
+    color: white;
+    font-size: smaller;
+    font-weight: lighter;
+    border-radius: 10px;
+    border: 2px solid aqua;
+    background-color: aqua;
+    padding: 10px;
+    margin-left: 130px;
+
+}
+.footer{
+    width: 100%;
+    height: 50px;
+    
+    text-align: center;
+    background-color: rgb(22, 156, 209);
+    color: white;
+    font-weight: lighter;
+    font-size: 15px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(min-width:768px){
+    .blue{
+        height: 500px;
+    }
+    .crosstop{
+        position: absolute;
+        width: 320px;
+        height: 90px;
+    }
+    .photohub{
+        position: relative;
+        width: 150px;
+        margin: 8px;
+    }
+    .menu{
+        position: relative;
+        padding-top: 1px;
+        padding-left: 20px;
+        
+    }
+    .topright{
+        text-align: right;
+        margin-top: -55px;
+        
+    }
+    
+    h2{
+        margin-top: 40px;
+        font-size: xx-large;
+
+    }
+    .firstscreen{
+        position: absolute;
+        margin-top: -280px;
+        margin-left: 400px;
+        width: 300px;
+        height: 300px;
+    }
+    .p1{
+        margin-left: 30px;
+    }
+    .white{
+        width: 100%;
+        height: 350px;
+    }
+    .white img{
+        margin-top: 60px;
+    }
+    .div{
+        margin-top: -300px;
+        margin-left: 370px;
+    }
+    .backimg{
+        height: 400px;
+    }
+    textarea{
+        position: absolute;
+        margin-top: -390px;
+        margin-left: 200px; 
+        width: 550px; 
+        height: 250px;
+    }
+    .easy{
+        margin-top: -300px;
+    }
+    .flexi{
+        margin:-250px;
+        margin-left: 70px;
+    }
+    .mode{
+        margin-top:-200px;
+
+    }
+    .ratio{
+        margin-top: -150px;
+        margin-left: 70px;
+    }
+    .offwhite{
+        height: 450px;
+    }
+    #m{
+        margin-top: 300px;
+        padding: 15px;
+    }
+    .p3{
+        font-size: 17px;
+    }
+    .man{
+        width: 350px;
+        height: 350px;
+        margin-top: -250px;
+        margin-left: 380px;
+
+    }
+    .bluerequest{
+        height: 600px;
+    }
+    .call{
+        margin-top: -45px;
+    }
+    .map{
+    
+        margin-top: -500px;
+        margin-left: 400px;
+    }
+    .blackish{
+        height: 400px;
+    }
+   
+    .add{
+        text-align:justify;
+        margin-left: 90px;
+        margin-top: 0px;
+    }
+    .follow{
+        margin-top: -170px;
+
+    }
+    .news{
+        margin-left: 350px;
+        margin-top: -300px;
+    }
+    .mailid{
+        margin-left: 450px;
+        margin-top: 20px;
+    }
+    .subscribe{
+        margin-left: 500px;
+    }
+    .contact{
+        margin-top: 30px;
+    }
+
+
+
+}
+
+@media(min-width:1024px){
+    .topright{
+        margin-right: 30px;
+    }
+    .parent{
+        margin-top: 80px;
+        margin-left: 30px;
+    }
+    .firstscreen{
+        margin-top: -300px;
+        margin-left: 450px;
+        width: 400px;
+        height: 330px;
+    }
+    .p1{
+        margin-left: -30px;
+    }
+    .parent{
+        margin-left: 100px;
+    }
+    .white{
+        height: 300px;
+    }
+    .white img{
+        margin-left: 100px;
+    }
+    .ab{
+        margin-left: -10px;
+    }
+    .soft{
+        margin-left: 90px;
+    }
+    .div{
+        margin-top: -320px;
+        margin-left: 570px;
+    }
+    .bottom{
+        margin-left: -70px;
+    }
+    .bottom2{
+        margin-left: 10px;
+    }
+    .backimg{
+        height: 400px;
+    }
+    textarea{
+        position: absolute;
+        margin-top: -410px;
+        margin-left: 250px; 
+        width: 650px; 
+        height: 300px;
+    }
+    .easy{
+        margin-top: -270px;
+        margin-left: 50px;
+        font-size: 25px;
+    }
+    .flexi{
+        margin:-220px;
+        margin-left: 90px;
+        font-size: 25px;
+    }
+    .mode{
+        margin-top:-170px;
+        margin-left: 90px;
+        font-size: 25px;
+
+    }
+    .ratio{
+        margin-top: -120px;
+        margin-left: 90px;
+        font-size: 25px;
+    }
+    .offwhite{
+        height: 400px;
+    }
+    .how{
+        margin-left: 70px;
+
+    }
+    .work{
+        margin-left: 250px;
+
+    }
+    
+    #m{
+        margin-top: 300px;
+        padding: 15px;
+        margin-left: 70px;
+    }
+    .p3{
+        font-size: 17px;
+        margin-left: 70px;
+    }
+    .man{
+        width: 400px;
+        height: 400px;
+        margin-top: -350px;
+        margin-left: 500px;
+
+    }
+    .map{
+        width: 400px;
+        height: 400px;
+    
+        margin-bottom: 70px;
+        margin-left: 500px;
+    }
+    
+    .add{
+        
+        margin-left: 200px;
+        margin-top: 0px;
+    }
+    .p4{
+        margin-left: 200px;
+    }
+    
+    .news{
+        margin-left: 350px;
+        margin-top: -300px;
+    }
+    .mailid{
+        margin-left: 600px;
+        margin-top: 40px;
+    }
+    .subscribe{
+        margin-top: 60px;
+        margin-left: 650px;
+    }
+    .links{
+        margin-left: 150px;
+    }
+    .follow{
+        margin-left: 300px;
+        margin-top: -170px;
+    }
+    .contact{
+        margin-top: 30px;
+    }
+
+
+}
+

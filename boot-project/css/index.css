@@ -1,0 +1,131 @@
+/* 
+.flip{
+    font-weight: bold;
+    font-family: sans-serif italic;
+    font-size: 40px;
+}
+.explore{
+    font-size:20px ;
+    font-weight: lighter;
+} */
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.navbar
+{
+  padding: 0;
+  z-index: 2;
+}
+.d-flex input{
+  width: 300px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+}
+.d-flex svg{
+  margin-top: 1.8%;
+  margin-left: -8%;
+}
+
+.n{
+    display: inline-block;
+    border-radius: 3px;
+    width: 80px;
+    text-align: center;
+  }
+.n:hover {
+  background: rgb(181, 222, 243);
+}
+.n:hover .u {
+  display: block;
+}
+.u {
+  position: absolute;
+  width: 200px;
+  display: none;
+  border-radius: 3px;
+  
+}
+
+.u .l {
+    background: rgb(181, 222, 243);
+    display: block;
+}
+.u .l a {
+  display: block !important;
+  padding: 5px;
+  cursor: pointer;
+}
+.u .l:hover {
+   background: rgb(236, 236, 236);
+ }
+ .tooltip-bg{
+    background-color: aqua;
+ }
+ .cart{
+  font-size: 23px;
+ }
+ .cart1{
+  font-size: 18px;
+ }
+.height{
+  height: 70vh;
+}
+.rupees:hover{
+  text-decoration: line-through;
+
+}
+.que{
+  padding-left: 120px;
+}
+.que:hover{
+  color:blue;
+  cursor: pointer;
+}
+.first{
+  width:21%;
+  margin-right: 43px;
+}
+.scale{
+  transition: 0.3s all;
+}
+.scale:hover{
+  transform: translateY(-15px);
+  cursor: pointer;
+  
+}
+ul li a{
+  text-decoration: none;
+  color: white;
+  padding-bottom: 3px;
+  font-family: 'Times New Roman', Times, serif;
+}
+ul li a:hover{
+  text-decoration: underline;
+  color: white;
+
+}
+
+
+@media screen and (min-width:768px) {
+  .d-flex input{
+    width: 500px;
+  }
+  
+}
+
+@media screen and (min-width:1024px) {
+  .d-flex input{
+    width: 500px;
+    margin-top: 10px;
+  }
+  .d-flex svg{
+    margin-top: 3.2%;
+    margin-left: -8%;
+  }
+  .n{
+    margin-top: 8px;
+  }
+  
+}
