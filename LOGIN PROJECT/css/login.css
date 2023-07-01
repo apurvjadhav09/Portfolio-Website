@@ -9,7 +9,7 @@
 
 body{
     
-    background: url(../images/background4.jpg) no-repeat;
+    background: url(../images/background6.jpg) no-repeat;
     /* background: #c4103d; */
     /* background: rgb(196, 81, 9); */
 }
@@ -97,7 +97,7 @@ body{
 .background{
     width: 100%;
     height: 200vh;
-    background: url(../images/background4.jpg) no-repeat;
+    background: url(../images/background6.jpg) no-repeat;
     /* background: #c4103d; */
     
     background-size:cover;
@@ -113,7 +113,7 @@ body{
     transform: translate(-50%,-50%);
     width: 75%;
     height: 550px;
-    background: url(../images/background4.jpg) no-repeat;
+    background: url(../images/background6.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     border-radius: 10px;
